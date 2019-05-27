@@ -7,4 +7,4 @@ for k in range(n+1,m) :
     if k%i==0 :
       f=f+1
   if f==1 :
-      print(k)
+      print(k,end=" ")
