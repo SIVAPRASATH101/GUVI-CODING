@@ -7,4 +7,4 @@ for i in n :
 if c==0 :
   print("yes")
 else :
-  print("no")
+  print("No")
