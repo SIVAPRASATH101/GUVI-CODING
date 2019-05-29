@@ -1,4 +1,4 @@
-n=int(input(""))
+n=int(input())
 a=0
 b=1
 for j in range(n):
