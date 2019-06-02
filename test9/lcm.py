@@ -7,6 +7,6 @@ else :
   s=y
 while(1) :
   if s%y==0 and s%z==0 :
-    print(s4)
+    print(s)
     break
   s=s+1
