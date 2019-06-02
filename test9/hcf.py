@@ -7,5 +7,5 @@ else :
   s=y
 for i in range(1,s+1) :
   if i%y==0 and i%z==0 :
-    hcf=i
-print(hcf)
+    hcf1=i
+print(hcf1)
