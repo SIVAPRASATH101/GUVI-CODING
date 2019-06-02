@@ -1,5 +1,0 @@
-l1,w1,h1=input().split()
-l1=int(l1)
-w1=int(w1)
-h1=int(h1)
-print(2*l1*w1+2*w1*h1+2*h1*l1,l1*w1*h1)
