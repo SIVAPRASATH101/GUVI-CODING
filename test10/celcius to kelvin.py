@@ -1,1 +1,2 @@
-print(273+int(input()))
+z=int(input())
+print(273+z)
