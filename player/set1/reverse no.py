@@ -1,2 +1,2 @@
-y=input()
-print(y[::-1])
+y11=input()
+print(y11[::-1])
